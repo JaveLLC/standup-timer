@@ -29,6 +29,12 @@ function createWindow () {
     win = null
   })
 
+    // When UI has finish loading
+    win.webContents.on('did-finish-load', () => {
+        // Send the timer value
+        win.webContents.send('timer-change', 0);
+    });
+
 }
 
 app.on('ready', createWindow)

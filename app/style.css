@@ -18,9 +18,23 @@ html, body {
 .timerText {
     position: fixed;
     top: 20%;
-    left: 40%;
-    transform: translate(-50%, -50%);
-    font-size: 45px;
+    left: 22%;
+    font-size: 35px;
     color: #D7ECFF;
     text-shadow: 0 0 2px #fff, 0 0 6px #fff, 0 0 10px #fff, 0 0 15px #228DFF, 0 0 25px #228DFF, 0 0 30px #228DFF, 0 0 40px #228DFF, 0 0 50px #228DFF; 
+}
+
+.timerWarn {
+  position: fixed;
+  bottom: 20%;
+  left: 28%;
+  color: #D7ECFF;
+}
+
+.timerReset {
+  position: fixed;
+  top: 45%;
+  right: 10%;
+  color: #D7ECFF;
+  background: #113A47;
 }
