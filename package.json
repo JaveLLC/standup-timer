@@ -1,0 +1,28 @@
+{
+  "name": "standup-timer",
+  "version": "0.1.0",
+  "description": "Does not time how long your standup is, reminds you to have frequent standups",
+  "main": "main.js",
+  "dependencies": {
+    "electron": "^1.8.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JaveLLC/standup-timer.git"
+  },
+  "keywords": [
+    "standup",
+    "jave"
+  ],
+  "author": "Charles Corbett",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JaveLLC/standup-timer/issues"
+  },
+  "homepage": "https://github.com/JaveLLC/standup-timer#readme"
+}
