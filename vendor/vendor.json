@@ -1,0 +1,115 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "tVnT97OF3BZifFZ+yKU7XuAxyRE=",
+			"path": "github.com/asticode/go-astilectron",
+			"revision": "767fc93e1fa8751940020bfe8251358c8938080f",
+			"revisionTime": "2018-03-26T08:56:19Z"
+		},
+		{
+			"checksumSHA1": "KBLeiFDlucIeSdqmARiQI7rsDHE=",
+			"path": "github.com/asticode/go-astilog",
+			"revision": "ec4d900a4ba9f63f8f6a4ca88c4f891c57f8f533",
+			"revisionTime": "2017-12-31T11:34:16Z"
+		},
+		{
+			"checksumSHA1": "S6VIHZTINPc1U1Vy6AdiVWF2lfo=",
+			"path": "github.com/asticode/go-astitools/context",
+			"revision": "65ff6e879d3b4edf151c16bd56a02435218cb1fe",
+			"revisionTime": "2018-03-25T12:16:05Z"
+		},
+		{
+			"checksumSHA1": "PU5QUnfTsAa19eVpb8kDSYsTS4A=",
+			"path": "github.com/asticode/go-astitools/exec",
+			"revision": "65ff6e879d3b4edf151c16bd56a02435218cb1fe",
+			"revisionTime": "2018-03-25T12:16:05Z"
+		},
+		{
+			"checksumSHA1": "d/9wbtIZQMkZtp5vxSa45SO+/BE=",
+			"path": "github.com/asticode/go-astitools/http",
+			"revision": "65ff6e879d3b4edf151c16bd56a02435218cb1fe",
+			"revisionTime": "2018-03-25T12:16:05Z"
+		},
+		{
+			"checksumSHA1": "ak5dhGjFVw8sqskIKOm30KLP+yE=",
+			"path": "github.com/asticode/go-astitools/io",
+			"revision": "65ff6e879d3b4edf151c16bd56a02435218cb1fe",
+			"revisionTime": "2018-03-25T12:16:05Z"
+		},
+		{
+			"checksumSHA1": "c4dFPKczsK9CajPjt9btVwHvu1o=",
+			"path": "github.com/asticode/go-astitools/os",
+			"revision": "65ff6e879d3b4edf151c16bd56a02435218cb1fe",
+			"revisionTime": "2018-03-25T12:16:05Z"
+		},
+		{
+			"checksumSHA1": "etXITaBpf+YreUN43pYc2mEjp3U=",
+			"path": "github.com/asticode/go-astitools/regexp",
+			"revision": "65ff6e879d3b4edf151c16bd56a02435218cb1fe",
+			"revisionTime": "2018-03-25T12:16:05Z"
+		},
+		{
+			"checksumSHA1": "ADyFccmLWsWFW5Wb76h1R0TSTn0=",
+			"path": "github.com/asticode/go-astitools/url",
+			"revision": "65ff6e879d3b4edf151c16bd56a02435218cb1fe",
+			"revisionTime": "2018-03-25T12:16:05Z"
+		},
+		{
+			"checksumSHA1": "rPUWvAVVF4DQPxGsRzvSQ3QfizE=",
+			"path": "github.com/asticode/go-astitools/zip",
+			"revision": "65ff6e879d3b4edf151c16bd56a02435218cb1fe",
+			"revisionTime": "2018-03-25T12:16:05Z"
+		},
+		{
+			"checksumSHA1": "T+kh2poktvucf6QrY3nRo09otto=",
+			"path": "github.com/julienschmidt/httprouter",
+			"revision": "d1898390779332322e6b5ca5011da4bf249bb056",
+			"revisionTime": "2018-02-22T16:05:26Z"
+		},
+		{
+			"checksumSHA1": "SEnjvwVyfuU2xBaOfXfwPD5MZqk=",
+			"path": "github.com/mattn/go-colorable",
+			"revision": "efa589957cd060542a26d2dd7832fd6a6c6c3ade",
+			"revisionTime": "2018-03-10T13:32:14Z"
+		},
+		{
+			"checksumSHA1": "w5RcOnfv5YDr3j2bd1YydkPiZx4=",
+			"path": "github.com/mattn/go-isatty",
+			"revision": "6ca4dbf54d38eea1a992b3c722a76a5d1c4cb25c",
+			"revisionTime": "2017-11-07T05:05:31Z"
+		},
+		{
+			"checksumSHA1": "ljd3FhYRJ91cLZz3wsH9BQQ2JbA=",
+			"path": "github.com/pkg/errors",
+			"revision": "816c9085562cd7ee03e7f8188a1cfd942858cded",
+			"revisionTime": "2018-03-11T21:45:15Z"
+		},
+		{
+			"checksumSHA1": "ByFN6xh/YGP/D3DM9c8p0D9D1XM=",
+			"path": "github.com/sirupsen/logrus",
+			"revision": "90150a8ed11b6ce285e77e8af2b0109559ce4777",
+			"revisionTime": "2018-03-15T01:07:03Z"
+		},
+		{
+			"checksumSHA1": "BGm8lKZmvJbf/YOJLeL1rw2WVjA=",
+			"path": "golang.org/x/crypto/ssh/terminal",
+			"revision": "88942b9c40a4c9d203b82b3731787b672d6e809b",
+			"revisionTime": "2018-03-21T23:38:19Z"
+		},
+		{
+			"checksumSHA1": "nRLbdzPbNFtvnZt1yExwINHEc5c=",
+			"path": "golang.org/x/sys/unix",
+			"revision": "13d03a9a82fba647c21a0ef8fba44a795d0f0835",
+			"revisionTime": "2018-03-26T12:16:02Z"
+		},
+		{
+			"checksumSHA1": "Dfz4tGItokMvHZENCsBmPPB8FGQ=",
+			"path": "golang.org/x/sys/windows",
+			"revision": "13d03a9a82fba647c21a0ef8fba44a795d0f0835",
+			"revisionTime": "2018-03-26T12:16:02Z"
+		}
+	],
+	"rootPath": "github.com/JaveLLC/standup-timer"
+}
