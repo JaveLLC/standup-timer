@@ -4,7 +4,7 @@
   "description": "Does not time how long your standup is, reminds you to have frequent standups",
   "main": "main.js",
   "dependencies": {
-    "electron": "^1.8.4",
+    "electron": "^1.8.8",
     "moment": "^2.21.0"
   },
   "devDependencies": {
